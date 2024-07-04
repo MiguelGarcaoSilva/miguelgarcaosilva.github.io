@@ -19,6 +19,11 @@ Links:
 
 ## Research Interests
 
+- Time Series
+- Data Mining
+- Machine Learning
+- Recommender Systems 
+
 
 ## Teaching
 
@@ -26,7 +31,12 @@ Links:
 
 ## Publications
 
-1. 
+1. **G. Silva, M.**, C. Madeira, S., & Henriques, R. (2024). A Comprehensive Survey on Biclustering-based Collaborative Filtering. ACM Computing Surveys.
+
+2. **Silva, M. G.**, Madeira, S. C., & Henriques, R. (2023). Actionable descriptors of spatiotemporal urban dynamics from large-scale mobile data: A case study in Lisbon city. Environment and Planning B: Urban Analytics and City Science.
+
+3. **Silva, M. G.**, Madeira, S. C., & Henriques, R. (2022). Water consumption pattern analysis using biclustering: When, why and how. Water, 14(12), 1954.
+
 
 ## Contact
 
