@@ -27,6 +27,20 @@ Links:
 
 ## Teaching
 
+## 2023/2024
+
+### Outsystems Training Program, Faculty of Sciences (FCUL), University of Lisbon
+
+## 2022/2023
+
+### Data and Information Systems Management Course, Instituto Superior Técnico (IST), University of Lisbon
+
+## 2021/2022
+
+### Databases Course, Instituto Superior Técnico (IST), University of Lisbon
+
+### Information Processing and Retrieval Course, Instituto Superior Técnico (IST), University of Lisbon
+
 
 
 ## Publications
@@ -36,6 +50,8 @@ Links:
 2. **Silva, M. G.**, Madeira, S. C., & Henriques, R. (2023). Actionable descriptors of spatiotemporal urban dynamics from large-scale mobile data: A case study in Lisbon city. Environment and Planning B: Urban Analytics and City Science.
 
 3. **Silva, M. G.**, Madeira, S. C., & Henriques, R. (2022). Water consumption pattern analysis using biclustering: When, why and how. Water, 14(12), 1954.
+
+4. **Silva, M. M. G. D.** (2020). User-Specific Bicluster-based Collaborative Filtering (Master’s dissertation).
 
 
 ## Contact
