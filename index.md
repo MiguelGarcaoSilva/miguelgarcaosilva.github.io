@@ -5,7 +5,7 @@ title: Miguel G. Silva
 
 ## About Me
 
-<img class="profile-picture" src="me.jpg">
+<img class="profile-picture" src="me.jpeg">
 
 I am a doctoral researcher at <a target="_blank" href="https://www.lasige.pt/">LASIGE</a> and <a target="_blank" href="https://ciencias.ulisboa.pt/">Faculty of Sciences, University of Lisbon</a> (FCUL), where i hold a Master’s degree in data science. I also lecture courses on data science and develop research in machine learning with applications in urban domains, including energy and water supply systems.  I am supervised by <a target="_blank" href="https://saracmadeira.wordpress.com/">Professor Sara Madeira</a> from FCUL and <a target="_blank" href="https://web.ist.utl.pt/rmch/">Professor Rui Henriques</a> from <a target="_blank" href="https://tecnico.ulisboa.pt/">IST</a>.
 
