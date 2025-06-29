@@ -46,14 +46,15 @@ Links:
 
 
 ## Publications
+1. **G. Silva, M.**, C. Madeira, S., & Henriques, R. (2025). Cutting through the noise: Explaining residuals in multivariate time series with motif analysis. Pattern Recognition.
 
-1. **G. Silva, M.**, C. Madeira, S., & Henriques, R. (2024). A Comprehensive Survey on Biclustering-based Collaborative Filtering. ACM Computing Surveys.
+2. **G. Silva, M.**, C. Madeira, S., & Henriques, R. (2024). A Comprehensive Survey on Biclustering-based Collaborative Filtering. ACM Computing Surveys.
 
-2. **Silva, M. G.**, Madeira, S. C., & Henriques, R. (2023). Actionable descriptors of spatiotemporal urban dynamics from large-scale mobile data: A case study in Lisbon city. Environment and Planning B: Urban Analytics and City Science.
+3. **Silva, M. G.**, Madeira, S. C., & Henriques, R. (2023). Actionable descriptors of spatiotemporal urban dynamics from large-scale mobile data: A case study in Lisbon city. Environment and Planning B: Urban Analytics and City Science.
 
-3. **Silva, M. G.**, Madeira, S. C., & Henriques, R. (2022). Water consumption pattern analysis using biclustering: When, why and how. Water, 14(12), 1954.
+4. **Silva, M. G.**, Madeira, S. C., & Henriques, R. (2022). Water consumption pattern analysis using biclustering: When, why and how. Water, 14(12), 1954.
 
-4. **Silva, M. M. G. D.** (2020). User-Specific Bicluster-based Collaborative Filtering (Master’s dissertation).
+5. **Silva, M. M. G. D.** (2020). User-Specific Bicluster-based Collaborative Filtering (Master’s dissertation).
 
 
 ## Contact
